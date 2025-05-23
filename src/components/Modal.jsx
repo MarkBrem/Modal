@@ -54,4 +54,3 @@ export default class Modal extends Component {
     );
   }
 }
-// eerte
